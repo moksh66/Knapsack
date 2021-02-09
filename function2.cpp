@@ -1,4 +1,5 @@
 #include "function2.h"
+#include "function1.h"
 int knapSack(int W, int wt[], int val[], int n)
 {
 
